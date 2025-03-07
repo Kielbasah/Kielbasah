@@ -18,7 +18,6 @@
               \|___| \  \__|\  \___|
                     \ \__\ \ \__\   
                      \|__|  \|__|                    
-
 ```                          
 <!---
 Kielbasah/Kielbasah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
